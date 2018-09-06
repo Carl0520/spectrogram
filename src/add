@@ -1,1 +1,5 @@
-make src
+1. get_spectrogram.py
+   get spectrogram , mel & mfcc
+   
+2. get_label 
+   prepare label.txt for making loader 
