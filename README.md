@@ -1,2 +1,3 @@
 # spectrogram
-wav to spectrogram ＆ crop
+wav to spectrogram mel & mfcc
+
